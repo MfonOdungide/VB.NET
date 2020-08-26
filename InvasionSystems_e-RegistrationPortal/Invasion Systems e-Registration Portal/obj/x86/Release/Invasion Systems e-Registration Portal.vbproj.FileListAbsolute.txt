@@ -1,0 +1,18 @@
+J:\Projects\Projects\Invasion Systems e-Registration Portal\Invasion Systems e-Registration Portal\obj\x86\Release\ResolveAssemblyReference.cache
+J:\Projects\Projects\Invasion Systems e-Registration Portal\Invasion Systems e-Registration Portal\obj\x86\Release\Invasion_Systems_e_Registration_Portal.frmHome.resources
+J:\Projects\Projects\Invasion Systems e-Registration Portal\Invasion Systems e-Registration Portal\obj\x86\Release\Invasion_Systems_e_Registration_Portal.frmLogin.resources
+J:\Projects\Projects\Invasion Systems e-Registration Portal\Invasion Systems e-Registration Portal\obj\x86\Release\Invasion_Systems_e_Registration_Portal.Resources.resources
+J:\Projects\Projects\Invasion Systems e-Registration Portal\Invasion Systems e-Registration Portal\obj\x86\Release\Invasion_Systems_e_Registration_Portal.frmSettings.resources
+J:\Projects\Projects\Invasion Systems e-Registration Portal\Invasion Systems e-Registration Portal\obj\x86\Release\GenerateResource.read.1.tlog
+J:\Projects\Projects\Invasion Systems e-Registration Portal\Invasion Systems e-Registration Portal\obj\x86\Release\GenerateResource.write.1.tlog
+J:\Projects\Projects\Invasion Systems e-Registration Portal\Invasion Systems e-Registration Portal\bin\Release\Records.mdb
+J:\Projects\Projects\Invasion Systems e-Registration Portal\Invasion Systems e-Registration Portal\bin\Release\Invasion Systems e-Registration Portal.exe.config
+J:\Projects\Projects\Invasion Systems e-Registration Portal\Invasion Systems e-Registration Portal\bin\Release\Invasion Systems e-Registration Portal.exe
+J:\Projects\Projects\Invasion Systems e-Registration Portal\Invasion Systems e-Registration Portal\bin\Release\Invasion Systems e-Registration Portal.pdb
+J:\Projects\Projects\Invasion Systems e-Registration Portal\Invasion Systems e-Registration Portal\bin\Release\Invasion Systems e-Registration Portal.xml
+J:\Projects\Projects\Invasion Systems e-Registration Portal\Invasion Systems e-Registration Portal\obj\x86\Release\Invasion_Systems_e_Registration_Portal.frmAdvancedSearch.resources
+J:\Projects\Projects\Invasion Systems e-Registration Portal\Invasion Systems e-Registration Portal\obj\x86\Release\Invasion_Systems_e_Registration_Portal.frmNewRegistration.resources
+J:\Projects\Projects\Invasion Systems e-Registration Portal\Invasion Systems e-Registration Portal\obj\x86\Release\Invasion_Systems_e_Registration_Portal.frmViewRegistration.resources
+J:\Projects\Projects\Invasion Systems e-Registration Portal\Invasion Systems e-Registration Portal\obj\x86\Release\Invasion Systems e-Registration Portal.exe
+J:\Projects\Projects\Invasion Systems e-Registration Portal\Invasion Systems e-Registration Portal\obj\x86\Release\Invasion Systems e-Registration Portal.xml
+J:\Projects\Projects\Invasion Systems e-Registration Portal\Invasion Systems e-Registration Portal\obj\x86\Release\Invasion Systems e-Registration Portal.pdb

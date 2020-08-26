@@ -1,0 +1,52 @@
+C:\Users\ODUNGIDE\Documents\Visual Studio 2010\Projects\Invasion Systems e-Registration Portal\Invasion Systems e-Registration Portal\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ODUNGIDE\Documents\Visual Studio 2010\Projects\Invasion Systems e-Registration Portal\Invasion Systems e-Registration Portal\obj\x86\Debug\Invasion_Systems_e_Registration_Portal.frmHome.resources
+C:\Users\ODUNGIDE\Documents\Visual Studio 2010\Projects\Invasion Systems e-Registration Portal\Invasion Systems e-Registration Portal\obj\x86\Debug\Invasion_Systems_e_Registration_Portal.frmLogin.resources
+C:\Users\ODUNGIDE\Documents\Visual Studio 2010\Projects\Invasion Systems e-Registration Portal\Invasion Systems e-Registration Portal\obj\x86\Debug\Invasion_Systems_e_Registration_Portal.Resources.resources
+C:\Users\ODUNGIDE\Documents\Visual Studio 2010\Projects\Invasion Systems e-Registration Portal\Invasion Systems e-Registration Portal\obj\x86\Debug\Invasion_Systems_e_Registration_Portal.FrmNew_Registration.resources
+C:\Users\ODUNGIDE\Documents\Visual Studio 2010\Projects\Invasion Systems e-Registration Portal\Invasion Systems e-Registration Portal\obj\x86\Debug\Invasion_Systems_e_Registration_Portal.frmSettings.resources
+C:\Users\ODUNGIDE\Documents\Visual Studio 2010\Projects\Invasion Systems e-Registration Portal\Invasion Systems e-Registration Portal\obj\x86\Debug\Invasion_Systems_e_Registration_Portal.frmUpdateRegistration.resources
+C:\Users\ODUNGIDE\Documents\Visual Studio 2010\Projects\Invasion Systems e-Registration Portal\Invasion Systems e-Registration Portal\obj\x86\Debug\Invasion_Systems_e_Registration_Portal.frmViewRegistration.resources
+C:\Users\ODUNGIDE\Documents\Visual Studio 2010\Projects\Invasion Systems e-Registration Portal\Invasion Systems e-Registration Portal\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ODUNGIDE\Documents\Visual Studio 2010\Projects\Invasion Systems e-Registration Portal\Invasion Systems e-Registration Portal\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ODUNGIDE\Documents\Visual Studio 2010\Projects\Invasion Systems e-Registration Portal\Invasion Systems e-Registration Portal\bin\Debug\Records.mdb
+C:\Users\ODUNGIDE\Documents\Visual Studio 2010\Projects\Invasion Systems e-Registration Portal\Invasion Systems e-Registration Portal\bin\Debug\Invasion Systems e-Registration Portal.exe.config
+C:\Users\ODUNGIDE\Documents\Visual Studio 2010\Projects\Invasion Systems e-Registration Portal\Invasion Systems e-Registration Portal\bin\Debug\Invasion Systems e-Registration Portal.exe
+C:\Users\ODUNGIDE\Documents\Visual Studio 2010\Projects\Invasion Systems e-Registration Portal\Invasion Systems e-Registration Portal\bin\Debug\Invasion Systems e-Registration Portal.pdb
+C:\Users\ODUNGIDE\Documents\Visual Studio 2010\Projects\Invasion Systems e-Registration Portal\Invasion Systems e-Registration Portal\bin\Debug\Invasion Systems e-Registration Portal.xml
+C:\Users\ODUNGIDE\Documents\Visual Studio 2010\Projects\Invasion Systems e-Registration Portal\Invasion Systems e-Registration Portal\obj\x86\Debug\Invasion Systems e-Registration Portal.exe
+C:\Users\ODUNGIDE\Documents\Visual Studio 2010\Projects\Invasion Systems e-Registration Portal\Invasion Systems e-Registration Portal\obj\x86\Debug\Invasion Systems e-Registration Portal.xml
+C:\Users\ODUNGIDE\Documents\Visual Studio 2010\Projects\Invasion Systems e-Registration Portal\Invasion Systems e-Registration Portal\obj\x86\Debug\Invasion Systems e-Registration Portal.pdb
+J:\Projects\Projects\Invasion Systems e-Registration Portal\Invasion Systems e-Registration Portal\bin\Debug\Invasion Systems e-Registration Portal.exe.config
+J:\Projects\Projects\Invasion Systems e-Registration Portal\Invasion Systems e-Registration Portal\obj\x86\Debug\Invasion Systems e-Registration Portal.exe
+J:\Projects\Projects\Invasion Systems e-Registration Portal\Invasion Systems e-Registration Portal\obj\x86\Debug\Invasion Systems e-Registration Portal.xml
+J:\Projects\Projects\Invasion Systems e-Registration Portal\Invasion Systems e-Registration Portal\obj\x86\Debug\Invasion Systems e-Registration Portal.pdb
+J:\Projects\Projects\Invasion Systems e-Registration Portal\Invasion Systems e-Registration Portal\bin\Debug\Records.mdb
+J:\Projects\Projects\Invasion Systems e-Registration Portal\Invasion Systems e-Registration Portal\bin\Debug\Invasion Systems e-Registration Portal.exe
+J:\Projects\Projects\Invasion Systems e-Registration Portal\Invasion Systems e-Registration Portal\bin\Debug\Invasion Systems e-Registration Portal.pdb
+J:\Projects\Projects\Invasion Systems e-Registration Portal\Invasion Systems e-Registration Portal\bin\Debug\Invasion Systems e-Registration Portal.xml
+J:\Projects\Projects\Invasion Systems e-Registration Portal\Invasion Systems e-Registration Portal\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\Projects\Projects\Invasion Systems e-Registration Portal\Invasion Systems e-Registration Portal\obj\x86\Debug\Invasion_Systems_e_Registration_Portal.frmHome.resources
+J:\Projects\Projects\Invasion Systems e-Registration Portal\Invasion Systems e-Registration Portal\obj\x86\Debug\Invasion_Systems_e_Registration_Portal.frmLogin.resources
+J:\Projects\Projects\Invasion Systems e-Registration Portal\Invasion Systems e-Registration Portal\obj\x86\Debug\Invasion_Systems_e_Registration_Portal.Resources.resources
+J:\Projects\Projects\Invasion Systems e-Registration Portal\Invasion Systems e-Registration Portal\obj\x86\Debug\Invasion_Systems_e_Registration_Portal.frmSettings.resources
+J:\Projects\Projects\Invasion Systems e-Registration Portal\Invasion Systems e-Registration Portal\obj\x86\Debug\GenerateResource.read.1.tlog
+J:\Projects\Projects\Invasion Systems e-Registration Portal\Invasion Systems e-Registration Portal\obj\x86\Debug\GenerateResource.write.1.tlog
+J:\Projects\Projects\Invasion Systems e-Registration Portal\Invasion Systems e-Registration Portal\obj\x86\Debug\Invasion_Systems_e_Registration_Portal.frmAdvancedSearch.resources
+J:\Projects\Projects\Invasion Systems e-Registration Portal\Invasion Systems e-Registration Portal\obj\x86\Debug\Invasion_Systems_e_Registration_Portal.frmViewRegistration.resources
+J:\Projects\Projects\Invasion Systems e-Registration Portal\Invasion Systems e-Registration Portal\obj\x86\Debug\Invasion_Systems_e_Registration_Portal.frmNewRegistration.resources
+C:\Users\ODUNGIDE\Documents\Visual Studio 2012\Projects\Invasion Systems e-Registration Portal\Invasion Systems e-Registration Portal\bin\Debug\Invasion Systems e-Registration Portal.exe.config
+C:\Users\ODUNGIDE\Documents\Visual Studio 2012\Projects\Invasion Systems e-Registration Portal\Invasion Systems e-Registration Portal\obj\x86\Debug\Invasion Systems e-Registration Portal.exe
+C:\Users\ODUNGIDE\Documents\Visual Studio 2012\Projects\Invasion Systems e-Registration Portal\Invasion Systems e-Registration Portal\obj\x86\Debug\Invasion Systems e-Registration Portal.xml
+C:\Users\ODUNGIDE\Documents\Visual Studio 2012\Projects\Invasion Systems e-Registration Portal\Invasion Systems e-Registration Portal\obj\x86\Debug\Invasion Systems e-Registration Portal.pdb
+C:\Users\ODUNGIDE\Documents\Visual Studio 2012\Projects\Invasion Systems e-Registration Portal\Invasion Systems e-Registration Portal\bin\Debug\Records.mdb
+C:\Users\ODUNGIDE\Documents\Visual Studio 2012\Projects\Invasion Systems e-Registration Portal\Invasion Systems e-Registration Portal\bin\Debug\Invasion Systems e-Registration Portal.exe
+C:\Users\ODUNGIDE\Documents\Visual Studio 2012\Projects\Invasion Systems e-Registration Portal\Invasion Systems e-Registration Portal\bin\Debug\Invasion Systems e-Registration Portal.pdb
+C:\Users\ODUNGIDE\Documents\Visual Studio 2012\Projects\Invasion Systems e-Registration Portal\Invasion Systems e-Registration Portal\bin\Debug\Invasion Systems e-Registration Portal.xml
+C:\Users\ODUNGIDE\Documents\Visual Studio 2012\Projects\Invasion Systems e-Registration Portal\Invasion Systems e-Registration Portal\obj\x86\Debug\Invasion_Systems_e_Registration_Portal.frmAdvancedSearch.resources
+C:\Users\ODUNGIDE\Documents\Visual Studio 2012\Projects\Invasion Systems e-Registration Portal\Invasion Systems e-Registration Portal\obj\x86\Debug\Invasion_Systems_e_Registration_Portal.frmHome.resources
+C:\Users\ODUNGIDE\Documents\Visual Studio 2012\Projects\Invasion Systems e-Registration Portal\Invasion Systems e-Registration Portal\obj\x86\Debug\Invasion_Systems_e_Registration_Portal.frmLogin.resources
+C:\Users\ODUNGIDE\Documents\Visual Studio 2012\Projects\Invasion Systems e-Registration Portal\Invasion Systems e-Registration Portal\obj\x86\Debug\Invasion_Systems_e_Registration_Portal.Resources.resources
+C:\Users\ODUNGIDE\Documents\Visual Studio 2012\Projects\Invasion Systems e-Registration Portal\Invasion Systems e-Registration Portal\obj\x86\Debug\Invasion_Systems_e_Registration_Portal.frmNewRegistration.resources
+C:\Users\ODUNGIDE\Documents\Visual Studio 2012\Projects\Invasion Systems e-Registration Portal\Invasion Systems e-Registration Portal\obj\x86\Debug\Invasion_Systems_e_Registration_Portal.frmSettings.resources
+C:\Users\ODUNGIDE\Documents\Visual Studio 2012\Projects\Invasion Systems e-Registration Portal\Invasion Systems e-Registration Portal\obj\x86\Debug\Invasion_Systems_e_Registration_Portal.frmViewRegistration.resources
+C:\Users\ODUNGIDE\Documents\Visual Studio 2012\Projects\Invasion Systems e-Registration Portal\Invasion Systems e-Registration Portal\obj\x86\Debug\Invasion Systems e-Registration Portal.vbproj.GenerateResource.Cache

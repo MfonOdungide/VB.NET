@@ -1,0 +1,54 @@
+C:\Users\Instructor\documents\visual studio 2010\Projects\AuthGuard\AuthGuard\bin\Debug\AuthGuard.exe.config
+C:\Users\Instructor\documents\visual studio 2010\Projects\AuthGuard\AuthGuard\bin\Debug\AuthGuard.exe
+C:\Users\Instructor\documents\visual studio 2010\Projects\AuthGuard\AuthGuard\bin\Debug\AuthGuard.pdb
+C:\Users\Instructor\documents\visual studio 2010\Projects\AuthGuard\AuthGuard\bin\Debug\AuthGuard.xml
+C:\Users\Instructor\documents\visual studio 2010\Projects\AuthGuard\AuthGuard\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Instructor\documents\visual studio 2010\Projects\AuthGuard\AuthGuard\obj\x86\Debug\AuthGuard.frmLock.resources
+C:\Users\Instructor\documents\visual studio 2010\Projects\AuthGuard\AuthGuard\obj\x86\Debug\AuthGuard.Resources.resources
+C:\Users\Instructor\documents\visual studio 2010\Projects\AuthGuard\AuthGuard\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Instructor\documents\visual studio 2010\Projects\AuthGuard\AuthGuard\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Instructor\documents\visual studio 2010\Projects\AuthGuard\AuthGuard\obj\x86\Debug\AuthGuard.exe
+C:\Users\Instructor\documents\visual studio 2010\Projects\AuthGuard\AuthGuard\obj\x86\Debug\AuthGuard.xml
+C:\Users\Instructor\documents\visual studio 2010\Projects\AuthGuard\AuthGuard\obj\x86\Debug\AuthGuard.pdb
+C:\Users\Instructor\documents\visual studio 2010\Projects\AuthGuard\AuthGuard\obj\x86\Debug\AuthGuard.frmAboutBox.resources
+C:\Users\Instructor\documents\visual studio 2010\Projects\AuthGuard\AuthGuard\obj\x86\Debug\AuthGuard.frmAdminLogin.resources
+C:\Users\Instructor\documents\visual studio 2010\Projects\AuthGuard\AuthGuard\obj\x86\Debug\AuthGuard.frmConsole.resources
+C:\Users\Instructor\documents\visual studio 2010\Projects\AuthGuard\AuthGuard\obj\x86\Debug\AuthGuard.frmExiting.resources
+C:\Users\Instructor\documents\visual studio 2010\Projects\AuthGuard\AuthGuard\obj\x86\Debug\AuthGuard.frmLog.resources
+C:\Users\Instructor\documents\visual studio 2010\Projects\AuthGuard\AuthGuard\obj\x86\Debug\AuthGuard.frmStatus.resources
+C:\Users\Instructor\documents\visual studio 2010\Projects\AuthGuard\AuthGuard\obj\x86\Debug\AuthGuard.frmUserInformation.resources
+C:\Users\ODUNGIDE\Documents\Visual Studio 2012\Projects\AuthGuard\AuthGuard\bin\Debug\AuthGuard.exe.config
+C:\Users\ODUNGIDE\Documents\Visual Studio 2012\Projects\AuthGuard\AuthGuard\obj\x86\Debug\AuthGuard.exe
+C:\Users\ODUNGIDE\Documents\Visual Studio 2012\Projects\AuthGuard\AuthGuard\obj\x86\Debug\AuthGuard.xml
+C:\Users\ODUNGIDE\Documents\Visual Studio 2012\Projects\AuthGuard\AuthGuard\obj\x86\Debug\AuthGuard.pdb
+C:\Users\ODUNGIDE\Documents\Visual Studio 2012\Projects\AuthGuard\AuthGuard\bin\Debug\AuthGuard.exe
+C:\Users\ODUNGIDE\Documents\Visual Studio 2012\Projects\AuthGuard\AuthGuard\bin\Debug\AuthGuard.pdb
+C:\Users\ODUNGIDE\Documents\Visual Studio 2012\Projects\AuthGuard\AuthGuard\bin\Debug\AuthGuard.xml
+C:\Users\ODUNGIDE\Documents\Visual Studio 2012\Projects\AuthGuard\AuthGuard\obj\x86\Debug\AuthGuard.frmAboutBox.resources
+C:\Users\ODUNGIDE\Documents\Visual Studio 2012\Projects\AuthGuard\AuthGuard\obj\x86\Debug\AuthGuard.frmAdminLogin.resources
+C:\Users\ODUNGIDE\Documents\Visual Studio 2012\Projects\AuthGuard\AuthGuard\obj\x86\Debug\AuthGuard.frmConsole.resources
+C:\Users\ODUNGIDE\Documents\Visual Studio 2012\Projects\AuthGuard\AuthGuard\obj\x86\Debug\AuthGuard.frmExiting.resources
+C:\Users\ODUNGIDE\Documents\Visual Studio 2012\Projects\AuthGuard\AuthGuard\obj\x86\Debug\AuthGuard.frmLock.resources
+C:\Users\ODUNGIDE\Documents\Visual Studio 2012\Projects\AuthGuard\AuthGuard\obj\x86\Debug\AuthGuard.frmLog.resources
+C:\Users\ODUNGIDE\Documents\Visual Studio 2012\Projects\AuthGuard\AuthGuard\obj\x86\Debug\AuthGuard.Resources.resources
+C:\Users\ODUNGIDE\Documents\Visual Studio 2012\Projects\AuthGuard\AuthGuard\obj\x86\Debug\AuthGuard.frmStatus.resources
+C:\Users\ODUNGIDE\Documents\Visual Studio 2012\Projects\AuthGuard\AuthGuard\obj\x86\Debug\AuthGuard.frmUserInformation.resources
+C:\Users\ODUNGIDE\Documents\Visual Studio 2012\Projects\AuthGuard\AuthGuard\obj\x86\Debug\AuthGuard.vbproj.GenerateResource.Cache
+\\Odungide-studio\repo\VB.NET\AuthGuard\AuthGuard\bin\Debug\AuthGuard.exe.config
+\\Odungide-studio\repo\VB.NET\AuthGuard\AuthGuard\bin\Debug\AuthGuard.exe
+\\Odungide-studio\repo\VB.NET\AuthGuard\AuthGuard\bin\Debug\AuthGuard.pdb
+\\Odungide-studio\repo\VB.NET\AuthGuard\AuthGuard\bin\Debug\AuthGuard.xml
+\\Odungide-studio\repo\VB.NET\AuthGuard\AuthGuard\obj\x86\Debug\AuthGuard.vbprojResolveAssemblyReference.cache
+\\Odungide-studio\repo\VB.NET\AuthGuard\AuthGuard\obj\x86\Debug\AuthGuard.frmAboutBox.resources
+\\Odungide-studio\repo\VB.NET\AuthGuard\AuthGuard\obj\x86\Debug\AuthGuard.frmAdminLogin.resources
+\\Odungide-studio\repo\VB.NET\AuthGuard\AuthGuard\obj\x86\Debug\AuthGuard.frmConsole.resources
+\\Odungide-studio\repo\VB.NET\AuthGuard\AuthGuard\obj\x86\Debug\AuthGuard.frmExiting.resources
+\\Odungide-studio\repo\VB.NET\AuthGuard\AuthGuard\obj\x86\Debug\AuthGuard.frmLock.resources
+\\Odungide-studio\repo\VB.NET\AuthGuard\AuthGuard\obj\x86\Debug\AuthGuard.frmLog.resources
+\\Odungide-studio\repo\VB.NET\AuthGuard\AuthGuard\obj\x86\Debug\AuthGuard.Resources.resources
+\\Odungide-studio\repo\VB.NET\AuthGuard\AuthGuard\obj\x86\Debug\AuthGuard.frmStatus.resources
+\\Odungide-studio\repo\VB.NET\AuthGuard\AuthGuard\obj\x86\Debug\AuthGuard.frmUserInformation.resources
+\\Odungide-studio\repo\VB.NET\AuthGuard\AuthGuard\obj\x86\Debug\AuthGuard.vbproj.GenerateResource.Cache
+\\Odungide-studio\repo\VB.NET\AuthGuard\AuthGuard\obj\x86\Debug\AuthGuard.exe
+\\Odungide-studio\repo\VB.NET\AuthGuard\AuthGuard\obj\x86\Debug\AuthGuard.xml
+\\Odungide-studio\repo\VB.NET\AuthGuard\AuthGuard\obj\x86\Debug\AuthGuard.pdb

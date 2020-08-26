@@ -1,0 +1,29 @@
+C:\Users\ODUNGIDE\Documents\Visual Studio 2010\Projects\EIE eLearning\EIE eLearning\bin\Debug\UserData.mdb
+C:\Users\ODUNGIDE\Documents\Visual Studio 2010\Projects\EIE eLearning\EIE eLearning\bin\Debug\EIE eLearning.exe.config
+C:\Users\ODUNGIDE\Documents\Visual Studio 2010\Projects\EIE eLearning\EIE eLearning\bin\Debug\EIE eLearning.exe
+C:\Users\ODUNGIDE\Documents\Visual Studio 2010\Projects\EIE eLearning\EIE eLearning\bin\Debug\EIE eLearning.pdb
+C:\Users\ODUNGIDE\Documents\Visual Studio 2010\Projects\EIE eLearning\EIE eLearning\bin\Debug\EIE eLearning.xml
+C:\Users\ODUNGIDE\Documents\Visual Studio 2010\Projects\EIE eLearning\EIE eLearning\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ODUNGIDE\Documents\Visual Studio 2010\Projects\EIE eLearning\EIE eLearning\obj\x86\Debug\EIE_eLearning.frmCongratulations.resources
+C:\Users\ODUNGIDE\Documents\Visual Studio 2010\Projects\EIE eLearning\EIE eLearning\obj\x86\Debug\EIE_eLearning.frmLogin.resources
+C:\Users\ODUNGIDE\Documents\Visual Studio 2010\Projects\EIE eLearning\EIE eLearning\obj\x86\Debug\EIE_eLearning.frmMain.resources
+C:\Users\ODUNGIDE\Documents\Visual Studio 2010\Projects\EIE eLearning\EIE eLearning\obj\x86\Debug\EIE_eLearning.Resources.resources
+C:\Users\ODUNGIDE\Documents\Visual Studio 2010\Projects\EIE eLearning\EIE eLearning\obj\x86\Debug\EIE_eLearning.frmRegistration.resources
+C:\Users\ODUNGIDE\Documents\Visual Studio 2010\Projects\EIE eLearning\EIE eLearning\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ODUNGIDE\Documents\Visual Studio 2010\Projects\EIE eLearning\EIE eLearning\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ODUNGIDE\Documents\Visual Studio 2010\Projects\EIE eLearning\EIE eLearning\obj\x86\Debug\EIE eLearning.exe
+C:\Users\ODUNGIDE\Documents\Visual Studio 2010\Projects\EIE eLearning\EIE eLearning\obj\x86\Debug\EIE eLearning.xml
+C:\Users\ODUNGIDE\Documents\Visual Studio 2010\Projects\EIE eLearning\EIE eLearning\obj\x86\Debug\EIE eLearning.pdb
+C:\Users\ODUNGIDE\documents\visual studio 2010\Projects\EIE eLearning\EIE eLearning\bin\Debug\Interop.WMPLib.dll
+C:\Users\ODUNGIDE\documents\visual studio 2010\Projects\EIE eLearning\EIE eLearning\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ODUNGIDE\documents\visual studio 2010\Projects\EIE eLearning\EIE eLearning\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\ODUNGIDE\documents\visual studio 2010\Projects\EIE eLearning\EIE eLearning\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\ODUNGIDE\documents\visual studio 2010\Projects\EIE eLearning\EIE eLearning\obj\x86\Debug\EIE eLearning.vbproj.ResolveComReference.cache
+C:\Users\ODUNGIDE\documents\visual studio 2010\Projects\EIE eLearning\EIE eLearning\obj\x86\Debug\EIE_eLearning.frmPreview.resources
+C:\Users\ODUNGIDE\documents\visual studio 2010\Projects\EIE eLearning\EIE eLearning\obj\x86\Debug\EIE_eLearning.frmSearch.resources
+C:\Users\ODUNGIDE\documents\visual studio 2010\Projects\EIE eLearning\EIE eLearning\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\ODUNGIDE\documents\visual studio 2010\Projects\EIE eLearning\EIE eLearning\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\ODUNGIDE\documents\visual studio 2010\Projects\EIE eLearning\EIE eLearning\obj\x86\Debug\Interop.AcroPDFLib.dll
+C:\Users\ODUNGIDE\documents\visual studio 2010\Projects\EIE eLearning\EIE eLearning\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\ODUNGIDE\documents\visual studio 2010\Projects\EIE eLearning\EIE eLearning\obj\x86\Debug\EIE_eLearning.frmCatalog.resources
+C:\Users\ODUNGIDE\documents\visual studio 2010\Projects\EIE eLearning\EIE eLearning\obj\x86\Debug\EIE_eLearning.frmAccountInformation.resources

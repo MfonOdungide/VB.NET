@@ -1,0 +1,15 @@
+c:\users\odungide\documents\visual studio 2012\Projects\Class Timer\Class Timer\bin\Debug\Class Timer.exe.config
+c:\users\odungide\documents\visual studio 2012\Projects\Class Timer\Class Timer\bin\Debug\Class Timer.exe
+c:\users\odungide\documents\visual studio 2012\Projects\Class Timer\Class Timer\bin\Debug\Class Timer.pdb
+c:\users\odungide\documents\visual studio 2012\Projects\Class Timer\Class Timer\bin\Debug\Class Timer.xml
+c:\users\odungide\documents\visual studio 2012\Projects\Class Timer\Class Timer\obj\Debug\Class_Monitor.frmClassMonitor.resources
+c:\users\odungide\documents\visual studio 2012\Projects\Class Timer\Class Timer\obj\Debug\Class_Monitor.Resources.resources
+c:\users\odungide\documents\visual studio 2012\Projects\Class Timer\Class Timer\obj\Debug\Class_Monitor.frmNotification.resources
+c:\users\odungide\documents\visual studio 2012\Projects\Class Timer\Class Timer\obj\Debug\Class_Monitor.frmSettings.resources
+c:\users\odungide\documents\visual studio 2012\Projects\Class Timer\Class Timer\obj\Debug\Class Monitor.vbproj.GenerateResource.Cache
+c:\users\odungide\documents\visual studio 2012\Projects\Class Timer\Class Timer\obj\Debug\Class Timer.exe
+c:\users\odungide\documents\visual studio 2012\Projects\Class Timer\Class Timer\obj\Debug\Class Timer.xml
+c:\users\odungide\documents\visual studio 2012\Projects\Class Timer\Class Timer\obj\Debug\Class Timer.pdb
+c:\users\odungide\documents\visual studio 2012\Projects\Class Timer\Class Timer\obj\Debug\Class_Monitor.frmAboutBox.resources
+c:\users\odungide\documents\visual studio 2012\Projects\Class Timer\Class Timer\obj\Debug\Class_Monitor.SplashScreen.resources
+c:\users\odungide\documents\visual studio 2012\Projects\Class Timer\Class Timer\obj\Debug\Class_Monitor.frmExiting.resources

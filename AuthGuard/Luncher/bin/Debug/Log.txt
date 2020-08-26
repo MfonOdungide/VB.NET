@@ -1,0 +1,9 @@
+
+06-Jul-14 20:57:43 Checking Clearance Level Database
+Clearance LevelDatabase Connection Unavailable
+06-Jul-14 20:57:43 Checking Authentication Database
+Authentication Database Connection Unavailable
+06-Jul-14 20:57:43 Checking Log File
+Log Data Unavailable
+06-Jul-14 20:57:43 Checking for Installation
+AuthGuard Not Installed

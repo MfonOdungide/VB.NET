@@ -1,0 +1,11 @@
+c:\users\odungide\documents\visual studio 2012\Projects\Class Timer\Class Timer\bin\Debug\Class Timer.exe.config
+c:\users\odungide\documents\visual studio 2012\Projects\Class Timer\Class Timer\bin\Debug\Class Timer.exe
+c:\users\odungide\documents\visual studio 2012\Projects\Class Timer\Class Timer\bin\Debug\Class Timer.pdb
+c:\users\odungide\documents\visual studio 2012\Projects\Class Timer\Class Timer\bin\Debug\Class Timer.xml
+c:\users\odungide\documents\visual studio 2012\Projects\Class Timer\Class Timer\obj\Debug\Class_Timer.Resources.resources
+c:\users\odungide\documents\visual studio 2012\Projects\Class Timer\Class Timer\obj\Debug\Class Timer.vbproj.GenerateResource.Cache
+c:\users\odungide\documents\visual studio 2012\Projects\Class Timer\Class Timer\obj\Debug\Class Timer.exe
+c:\users\odungide\documents\visual studio 2012\Projects\Class Timer\Class Timer\obj\Debug\Class Timer.xml
+c:\users\odungide\documents\visual studio 2012\Projects\Class Timer\Class Timer\obj\Debug\Class Timer.pdb
+c:\users\odungide\documents\visual studio 2012\Projects\Class Timer\Class Timer\obj\Debug\Class_Timer.frmClassTimer.resources
+c:\users\odungide\documents\visual studio 2012\Projects\Class Timer\Class Timer\obj\Debug\Class_Timer.frmSettings.resources

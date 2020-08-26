@@ -1,0 +1,172 @@
+
+5/23/2014 11:38:17 User [13GWT0911] Authenticated
+5/23/2014 11:38:23 User [13GWT0911] Signed In as ODUNGIDE, Mfon
+Examination Center: Global Webs Technologies
+Examination Title: System Administrator [CITXXX]
+Time Allowed: 30Minutes
+Number Of Questions: 60 Questions
+5/23/2014 11:45:59 User [13GWT0911] Authenticated
+5/23/2014 11:46:04 User [13GWT0911] Signed In as ODUNGIDE, Mfon
+Examination Center: Global Webs Technologies
+Examination Title: System Administrator [CITXXX]
+Time Allowed: 30Minutes
+Number Of Questions: 60 Questions
+5/23/2014 11:46:12Exam Starts
+(1) Q48 - ChosenOption [], CorrectOption [B]
+5/23/2014 11:46:23 Exam Ended
+Score: 0
+Remaining Time: 0 : 29 : 49 Minutes
+============
+
+11-Jun-14 22:45:42 User [] Authenticated
+11-Jun-14 22:51:51 User [] Authenticated
+11-Jun-14 22:56:39 User [] Authenticated
+11-Jun-14 22:59:01 User [] Authenticated
+11-Jun-14 23:06:56 User [] Authenticated
+11-Jun-14 23:15:15 User [] Authenticated
+11-Jun-14 23:16:31 User [13GWT0911] Authenticated
+11-Jun-14 23:18:05 User [] Authenticated
+11-Jun-14 23:50:40 User [13GWT0911] Authenticated
+13-Jun-14 15:59:33 User [14GWC0614] Authenticated
+13-Jun-14 15:59:47 User [14GWC0614] Signed In as OKOYE, Chidinyeelum
+Examination Center: Global Webs Technologies
+Examination Title: Computer Appreciation 1 [CIT112]
+Time Allowed: 30Minutes
+Number Of Questions: 60 Questions
+13-Jun-14 15:59:50 Exam Starts
+(1) Q11 - ChosenOption [C], CorrectOption [C]
+(2) Q31 - ChosenOption [B], CorrectOption [B]
+(3) Q48 - ChosenOption [C], CorrectOption [B]
+(4) Q56 - ChosenOption [C], CorrectOption [C]
+(5) Q43 - ChosenOption [], CorrectOption [A]
+(6) Q45 - ChosenOption [], CorrectOption [B]
+(7) Q45 - ChosenOption [], CorrectOption [B]
+(8) Q34 - ChosenOption [], CorrectOption [C]
+(9) Q34 - ChosenOption [], CorrectOption [C]
+(10) Q13 - ChosenOption [], CorrectOption [A]
+(11) Q13 - ChosenOption [], CorrectOption [A]
+(12) Q26 - ChosenOption [], CorrectOption [C]
+(13) Q26 - ChosenOption [], CorrectOption [C]
+(14) Q6 - ChosenOption [], CorrectOption [B]
+(15) Q6 - ChosenOption [], CorrectOption [B]
+(16) Q7 - ChosenOption [], CorrectOption [C]
+(17) Q7 - ChosenOption [], CorrectOption [C]
+(18) Q35 - ChosenOption [], CorrectOption [B]
+(19) Q35 - ChosenOption [], CorrectOption [B]
+(20) Q2 - ChosenOption [], CorrectOption [A]
+(21) Q2 - ChosenOption [], CorrectOption [A]
+(22) Q20 - ChosenOption [], CorrectOption [C]
+(23) Q57 - ChosenOption [], CorrectOption [C]
+(24) Q18 - ChosenOption [], CorrectOption [B]
+(25) Q18 - ChosenOption [], CorrectOption [B]
+(26) Q13 - ChosenOption [B], CorrectOption [A]
+(27) Q40 - ChosenOption [], CorrectOption [A]
+(28) Q46 - ChosenOption [], CorrectOption [A]
+(29) Q11 - ChosenOption [], CorrectOption [C]
+(30) Q32 - ChosenOption [], CorrectOption [D]
+(31) Q20 - ChosenOption [], CorrectOption [C]
+(32) Q20 - ChosenOption [], CorrectOption [C]
+(33) Q30 - ChosenOption [], CorrectOption [B]
+(34) Q30 - ChosenOption [], CorrectOption [B]
+(35) Q40 - ChosenOption [], CorrectOption [A]
+(36) Q40 - ChosenOption [], CorrectOption [A]
+(37) Q49 - ChosenOption [], CorrectOption [B]
+(38) Q39 - ChosenOption [], CorrectOption [D]
+(39) Q49 - ChosenOption [], CorrectOption [B]
+(40) Q49 - ChosenOption [], CorrectOption [B]
+(41) Q20 - ChosenOption [], CorrectOption [C]
+(42) Q20 - ChosenOption [], CorrectOption [C]
+(43) Q30 - ChosenOption [], CorrectOption [B]
+(44) Q30 - ChosenOption [], CorrectOption [B]
+(45) Q24 - ChosenOption [], CorrectOption [B]
+(46) Q45 - ChosenOption [], CorrectOption [B]
+(47) Q45 - ChosenOption [], CorrectOption [B]
+(48) Q53 - ChosenOption [], CorrectOption [B]
+(49) Q53 - ChosenOption [], CorrectOption [B]
+(50) Q36 - ChosenOption [], CorrectOption [D]
+(51) Q57 - ChosenOption [], CorrectOption [C]
+(52) Q52 - ChosenOption [], CorrectOption [B]
+(53) Q16 - ChosenOption [], CorrectOption [C]
+(54) Q44 - ChosenOption [], CorrectOption [C]
+(55) Q43 - ChosenOption [], CorrectOption [A]
+(56) Q13 - ChosenOption [], CorrectOption [A]
+(57) Q34 - ChosenOption [], CorrectOption [C]
+(58) Q42 - ChosenOption [], CorrectOption [B]
+(59) Q42 - ChosenOption [], CorrectOption [B]
+(60) Q46 - ChosenOption [], CorrectOption [A]
+13-Jun-14 16:01:17 Exam Ended
+Score: 3/60
+Remaining Time: 0 : 28 : 33 Minutes
+============
+
+13-Oct-14 17:03:00 User [13GWT0911] Authenticated
+13-Oct-14 17:03:09 User [13GWT0911] Signed In as ODUNGIDE, Mfon
+Examination Center: Global Webs Technologies
+Examination Title: System Administrator [CITXXX]
+Time Allowed: 30Minutes
+Number Of Questions: 60 Questions
+13-Oct-14 17:03:18 Exam Starts
+(1) Q2 - ChosenOption [A], CorrectOption [A]
+(2) Q35 - ChosenOption [B], CorrectOption [B]
+(3) Q50 - ChosenOption [A], CorrectOption [A]
+(4) Q39 - ChosenOption [D], CorrectOption [D]
+(5) Qsssaaaaaaaaaaa - ChosenOption [B], CorrectOption [B]
+(6) Q17 - ChosenOption [C], CorrectOption [B]
+(7) Q38 - ChosenOption [C], CorrectOption [D]
+(8) Q49 - ChosenOption [B], CorrectOption [B]
+(9) Q60 - ChosenOption [D], CorrectOption [D]
+(10) Q24 - ChosenOption [B], CorrectOption [B]
+(11) Q22 - ChosenOption [B], CorrectOption [B]
+(12) Q25 - ChosenOption [B], CorrectOption [B]
+(13) Q7 - ChosenOption [C], CorrectOption [C]
+(14) Q50 - ChosenOption [A], CorrectOption [A]
+(15) Q29 - ChosenOption [A], CorrectOption [A]
+(16) Q37 - ChosenOption [A], CorrectOption [A]
+(17) Q31 - ChosenOption [B], CorrectOption [B]
+(18) Q10 - ChosenOption [C], CorrectOption [C]
+(19) Q53 - ChosenOption [B], CorrectOption [B]
+(20) Q32 - ChosenOption [D], CorrectOption [D]
+(21) Q4 - ChosenOption [C], CorrectOption [C]
+(22) Q28 - ChosenOption [B], CorrectOption [D]
+(23) Q39 - ChosenOption [D], CorrectOption [D]
+(24) Q55 - ChosenOption [A], CorrectOption [C]
+(25) Q52 - ChosenOption [B], CorrectOption [B]
+(26) Q54 - ChosenOption [D], CorrectOption [D]
+(27) Q19 - ChosenOption [B], CorrectOption [D]
+(28) Q17 - ChosenOption [C], CorrectOption [B]
+(29) Q22 - ChosenOption [B], CorrectOption [B]
+(30) Q35 - ChosenOption [B], CorrectOption [B]
+(31) Q17 - ChosenOption [C], CorrectOption [B]
+(32) Q1 - ChosenOption [B], CorrectOption [B]
+(33) Q27 - ChosenOption [D], CorrectOption [D]
+(34) Q59 - ChosenOption [C], CorrectOption [C]
+(35) Q34 - ChosenOption [C], CorrectOption [C]
+(36) Q11 - ChosenOption [C], CorrectOption [C]
+(37) Q30 - ChosenOption [B], CorrectOption [B]
+(38) Q20 - ChosenOption [], CorrectOption [C]
+(39) Q49 - ChosenOption [B], CorrectOption [B]
+(40) Q49 - ChosenOption [B], CorrectOption [B]
+(41) Q28 - ChosenOption [B], CorrectOption [D]
+(42) Q60 - ChosenOption [D], CorrectOption [D]
+(43) Q47 - ChosenOption [B], CorrectOption [B]
+(44) Q53 - ChosenOption [B], CorrectOption [B]
+(45) Q18 - ChosenOption [B], CorrectOption [B]
+(46) Q48 - ChosenOption [A], CorrectOption [B]
+(47) Q50 - ChosenOption [A], CorrectOption [A]
+(48) Q29 - ChosenOption [A], CorrectOption [A]
+(49) Q20 - ChosenOption [C], CorrectOption [C]
+(50) Q53 - ChosenOption [B], CorrectOption [B]
+(51) Q22 - ChosenOption [B], CorrectOption [B]
+(52) Q42 - ChosenOption [B], CorrectOption [B]
+(53) Q25 - ChosenOption [B], CorrectOption [B]
+(54) Q27 - ChosenOption [D], CorrectOption [D]
+(55) Q39 - ChosenOption [D], CorrectOption [D]
+(56) Q51 - ChosenOption [B], CorrectOption [B]
+(57) Q6 - ChosenOption [B], CorrectOption [B]
+(58) Q11 - ChosenOption [D], CorrectOption [C]
+(59) Q44 - ChosenOption [C], CorrectOption [C]
+(60) Q57 - ChosenOption [C], CorrectOption [C]
+13-Oct-14 17:10:43 Exam Ended
+Score: 49/60
+Remaining Time: 0 : 22 : 29 Minutes
+============

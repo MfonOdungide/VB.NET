@@ -1,0 +1,73 @@
+C:\Users\ODUNGIDE\Documents\Visual Studio 2010\Projects\EIE eLearning\EIE eLearning\bin\Release\UserData.mdb
+C:\Users\ODUNGIDE\Documents\Visual Studio 2010\Projects\EIE eLearning\EIE eLearning\bin\Release\EIE eLearning.exe.config
+C:\Users\ODUNGIDE\Documents\Visual Studio 2010\Projects\EIE eLearning\EIE eLearning\bin\Release\EIE eLearning.exe
+C:\Users\ODUNGIDE\Documents\Visual Studio 2010\Projects\EIE eLearning\EIE eLearning\bin\Release\EIE eLearning.pdb
+C:\Users\ODUNGIDE\Documents\Visual Studio 2010\Projects\EIE eLearning\EIE eLearning\bin\Release\EIE eLearning.xml
+C:\Users\ODUNGIDE\Documents\Visual Studio 2010\Projects\EIE eLearning\EIE eLearning\bin\Release\Interop.AcroPDFLib.dll
+C:\Users\ODUNGIDE\Documents\Visual Studio 2010\Projects\EIE eLearning\EIE eLearning\bin\Release\Interop.WMPLib.dll
+C:\Users\ODUNGIDE\Documents\Visual Studio 2010\Projects\EIE eLearning\EIE eLearning\bin\Release\AxInterop.AcroPDFLib.dll
+C:\Users\ODUNGIDE\Documents\Visual Studio 2010\Projects\EIE eLearning\EIE eLearning\bin\Release\AxInterop.WMPLib.dll
+C:\Users\ODUNGIDE\Documents\Visual Studio 2010\Projects\EIE eLearning\EIE eLearning\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\ODUNGIDE\Documents\Visual Studio 2010\Projects\EIE eLearning\EIE eLearning\obj\x86\Release\Interop.AcroPDFLib.dll
+C:\Users\ODUNGIDE\Documents\Visual Studio 2010\Projects\EIE eLearning\EIE eLearning\obj\x86\Release\Interop.WMPLib.dll
+C:\Users\ODUNGIDE\Documents\Visual Studio 2010\Projects\EIE eLearning\EIE eLearning\obj\x86\Release\AxInterop.AcroPDFLib.dll
+C:\Users\ODUNGIDE\Documents\Visual Studio 2010\Projects\EIE eLearning\EIE eLearning\obj\x86\Release\AxInterop.WMPLib.dll
+C:\Users\ODUNGIDE\Documents\Visual Studio 2010\Projects\EIE eLearning\EIE eLearning\obj\x86\Release\EIE eLearning.vbproj.ResolveComReference.cache
+C:\Users\ODUNGIDE\Documents\Visual Studio 2010\Projects\EIE eLearning\EIE eLearning\obj\x86\Release\EIE_eLearning.frmAccountInformation.resources
+C:\Users\ODUNGIDE\Documents\Visual Studio 2010\Projects\EIE eLearning\EIE eLearning\obj\x86\Release\EIE_eLearning.frmCatalog.resources
+C:\Users\ODUNGIDE\Documents\Visual Studio 2010\Projects\EIE eLearning\EIE eLearning\obj\x86\Release\EIE_eLearning.frmCongratulations.resources
+C:\Users\ODUNGIDE\Documents\Visual Studio 2010\Projects\EIE eLearning\EIE eLearning\obj\x86\Release\EIE_eLearning.frmLogin.resources
+C:\Users\ODUNGIDE\Documents\Visual Studio 2010\Projects\EIE eLearning\EIE eLearning\obj\x86\Release\EIE_eLearning.frmMain.resources
+C:\Users\ODUNGIDE\Documents\Visual Studio 2010\Projects\EIE eLearning\EIE eLearning\obj\x86\Release\EIE_eLearning.Resources.resources
+C:\Users\ODUNGIDE\Documents\Visual Studio 2010\Projects\EIE eLearning\EIE eLearning\obj\x86\Release\EIE_eLearning.frmPreview.resources
+C:\Users\ODUNGIDE\Documents\Visual Studio 2010\Projects\EIE eLearning\EIE eLearning\obj\x86\Release\EIE_eLearning.frmRegistration.resources
+C:\Users\ODUNGIDE\Documents\Visual Studio 2010\Projects\EIE eLearning\EIE eLearning\obj\x86\Release\EIE_eLearning.frmSearch.resources
+C:\Users\ODUNGIDE\Documents\Visual Studio 2010\Projects\EIE eLearning\EIE eLearning\obj\x86\Release\EIE_eLearning.Trial.resources
+C:\Users\ODUNGIDE\Documents\Visual Studio 2010\Projects\EIE eLearning\EIE eLearning\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\ODUNGIDE\Documents\Visual Studio 2010\Projects\EIE eLearning\EIE eLearning\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\ODUNGIDE\Documents\Visual Studio 2010\Projects\EIE eLearning\EIE eLearning\obj\x86\Release\EIE eLearning.exe
+C:\Users\ODUNGIDE\Documents\Visual Studio 2010\Projects\EIE eLearning\EIE eLearning\obj\x86\Release\EIE eLearning.xml
+C:\Users\ODUNGIDE\Documents\Visual Studio 2010\Projects\EIE eLearning\EIE eLearning\obj\x86\Release\EIE eLearning.pdb
+C:\Users\ODUNGIDE\Documents\Visual Studio 2010\Projects\EIE eLearning\EIE eLearning\bin\Release\EIE eLearning.exe.manifest
+C:\Users\ODUNGIDE\Documents\Visual Studio 2010\Projects\EIE eLearning\EIE eLearning\bin\Release\EIE eLearning.application
+C:\Users\ODUNGIDE\Documents\Visual Studio 2010\Projects\EIE eLearning\EIE eLearning\obj\x86\Release\EIE eLearning.exe.manifest
+C:\Users\ODUNGIDE\Documents\Visual Studio 2010\Projects\EIE eLearning\EIE eLearning\obj\x86\Release\EIE eLearning.application
+J:\VS Projects\Visual Studio 2010\Projects\EIE eLearning\EIE eLearning\bin\Release\EIE eLearning.exe.config
+J:\VS Projects\Visual Studio 2010\Projects\EIE eLearning\EIE eLearning\obj\x86\Release\Interop.WMPLib.dll
+J:\VS Projects\Visual Studio 2010\Projects\EIE eLearning\EIE eLearning\obj\x86\Release\AxInterop.WMPLib.dll
+J:\VS Projects\Visual Studio 2010\Projects\EIE eLearning\EIE eLearning\obj\x86\Release\EIE eLearning.vbproj.ResolveComReference.cache
+J:\VS Projects\Visual Studio 2010\Projects\EIE eLearning\EIE eLearning\obj\x86\Release\EIE eLearning.exe
+J:\VS Projects\Visual Studio 2010\Projects\EIE eLearning\EIE eLearning\obj\x86\Release\EIE eLearning.xml
+J:\VS Projects\Visual Studio 2010\Projects\EIE eLearning\EIE eLearning\obj\x86\Release\EIE eLearning.pdb
+J:\VS Projects\Visual Studio 2010\Projects\EIE eLearning\EIE eLearning\obj\x86\Release\EIE_eLearning.frmAccountInformation.resources
+J:\VS Projects\Visual Studio 2010\Projects\EIE eLearning\EIE eLearning\obj\x86\Release\EIE_eLearning.frmCatalog.resources
+J:\VS Projects\Visual Studio 2010\Projects\EIE eLearning\EIE eLearning\obj\x86\Release\EIE_eLearning.frmCongratulations.resources
+J:\VS Projects\Visual Studio 2010\Projects\EIE eLearning\EIE eLearning\obj\x86\Release\EIE_eLearning.frmLogin.resources
+J:\VS Projects\Visual Studio 2010\Projects\EIE eLearning\EIE eLearning\obj\x86\Release\EIE_eLearning.frmMain.resources
+J:\VS Projects\Visual Studio 2010\Projects\EIE eLearning\EIE eLearning\obj\x86\Release\EIE_eLearning.Resources.resources
+J:\VS Projects\Visual Studio 2010\Projects\EIE eLearning\EIE eLearning\obj\x86\Release\EIE_eLearning.frmPreview.resources
+J:\VS Projects\Visual Studio 2010\Projects\EIE eLearning\EIE eLearning\obj\x86\Release\EIE_eLearning.frmRegistration.resources
+J:\VS Projects\Visual Studio 2010\Projects\EIE eLearning\EIE eLearning\obj\x86\Release\EIE_eLearning.frmSearch.resources
+J:\VS Projects\Visual Studio 2010\Projects\EIE eLearning\EIE eLearning\obj\x86\Release\EIE_eLearning.Trial.resources
+J:\VS Projects\Visual Studio 2010\Projects\EIE eLearning\EIE eLearning\obj\x86\Release\EIE eLearning.vbproj.GenerateResource.Cache
+N:\VS Projects\Visual Studio 2010\Projects\EIE eLearning\EIE eLearning\bin\Release\EIE eLearning.exe.config
+N:\VS Projects\Visual Studio 2010\Projects\EIE eLearning\EIE eLearning\obj\x86\Release\Interop.WMPLib.dll
+N:\VS Projects\Visual Studio 2010\Projects\EIE eLearning\EIE eLearning\obj\x86\Release\AxInterop.WMPLib.dll
+N:\VS Projects\Visual Studio 2010\Projects\EIE eLearning\EIE eLearning\obj\x86\Release\EIE eLearning.vbproj.ResolveComReference.cache
+N:\VS Projects\Visual Studio 2010\Projects\EIE eLearning\EIE eLearning\obj\x86\Release\EIE eLearning.exe
+N:\VS Projects\Visual Studio 2010\Projects\EIE eLearning\EIE eLearning\obj\x86\Release\EIE eLearning.xml
+N:\VS Projects\Visual Studio 2010\Projects\EIE eLearning\EIE eLearning\obj\x86\Release\EIE eLearning.pdb
+N:\VS Projects\Visual Studio 2010\Projects\EIE eLearning\EIE eLearning\obj\x86\Release\EIE eLearning.vbprojResolveAssemblyReference.cache
+N:\VS Projects\Visual Studio 2010\Projects\EIE eLearning\EIE eLearning\obj\x86\Release\EIE_eLearning.frmAccountInformation.resources
+N:\VS Projects\Visual Studio 2010\Projects\EIE eLearning\EIE eLearning\obj\x86\Release\EIE_eLearning.frmCatalog.resources
+N:\VS Projects\Visual Studio 2010\Projects\EIE eLearning\EIE eLearning\obj\x86\Release\EIE_eLearning.frmCongratulations.resources
+N:\VS Projects\Visual Studio 2010\Projects\EIE eLearning\EIE eLearning\obj\x86\Release\EIE_eLearning.frmLogin.resources
+N:\VS Projects\Visual Studio 2010\Projects\EIE eLearning\EIE eLearning\obj\x86\Release\EIE_eLearning.frmMain.resources
+N:\VS Projects\Visual Studio 2010\Projects\EIE eLearning\EIE eLearning\obj\x86\Release\EIE_eLearning.Resources.resources
+N:\VS Projects\Visual Studio 2010\Projects\EIE eLearning\EIE eLearning\obj\x86\Release\EIE_eLearning.frmPreview.resources
+N:\VS Projects\Visual Studio 2010\Projects\EIE eLearning\EIE eLearning\obj\x86\Release\EIE_eLearning.frmRegistration.resources
+N:\VS Projects\Visual Studio 2010\Projects\EIE eLearning\EIE eLearning\obj\x86\Release\EIE_eLearning.frmSearch.resources
+N:\VS Projects\Visual Studio 2010\Projects\EIE eLearning\EIE eLearning\obj\x86\Release\EIE_eLearning.Trial.resources
+N:\VS Projects\Visual Studio 2010\Projects\EIE eLearning\EIE eLearning\obj\x86\Release\EIE eLearning.vbproj.GenerateResource.Cache
+N:\VS Projects\Visual Studio 2010\Projects\EIE eLearning\EIE eLearning\obj\x86\Release\Interop.AcroPDFLib.dll
+N:\VS Projects\Visual Studio 2010\Projects\EIE eLearning\EIE eLearning\obj\x86\Release\AxInterop.AcroPDFLib.dll

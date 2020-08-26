@@ -1,0 +1,240 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+AuthGuard
+</name>
+</assembly>
+<members>
+<member name="P:AuthGuard.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:AuthGuard.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:AuthGuard.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:AuthGuard.authDataSet.UserDataDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AuthGuard.authDataSet.UserDataRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AuthGuard.authDataSet.UserDataRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AuthGuard.authDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:AuthGuard.authDataSetTableAdapters.UserDataTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:AuthGuard.authDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(AuthGuard.authDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:AuthGuard.authDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(AuthGuard.authDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:AuthGuard.authDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(AuthGuard.authDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:AuthGuard.authDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:AuthGuard.authDataSetTableAdapters.TableAdapterManager.UpdateAll(AuthGuard.authDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:AuthGuard.authDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:AuthGuard.authDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:AuthGuard.authDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="T:AuthGuard.clevelDataSet._0DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AuthGuard.clevelDataSet._1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AuthGuard.clevelDataSet._2DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AuthGuard.clevelDataSet._3DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AuthGuard.clevelDataSet._4DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AuthGuard.clevelDataSet._5DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AuthGuard.clevelDataSet._6DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AuthGuard.clevelDataSet._7DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AuthGuard.clevelDataSet._0Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AuthGuard.clevelDataSet._1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AuthGuard.clevelDataSet._2Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AuthGuard.clevelDataSet._3Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AuthGuard.clevelDataSet._4Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AuthGuard.clevelDataSet._5Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AuthGuard.clevelDataSet._6Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AuthGuard.clevelDataSet._7Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AuthGuard.clevelDataSet._0RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AuthGuard.clevelDataSet._1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AuthGuard.clevelDataSet._2RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AuthGuard.clevelDataSet._3RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AuthGuard.clevelDataSet._4RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AuthGuard.clevelDataSet._5RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AuthGuard.clevelDataSet._6RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AuthGuard.clevelDataSet._7RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AuthGuard.clevelDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:AuthGuard.clevelDataSetTableAdapters._0TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AuthGuard.clevelDataSetTableAdapters._1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AuthGuard.clevelDataSetTableAdapters._2TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AuthGuard.clevelDataSetTableAdapters._3TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AuthGuard.clevelDataSetTableAdapters._4TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AuthGuard.clevelDataSetTableAdapters._5TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AuthGuard.clevelDataSetTableAdapters._6TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AuthGuard.clevelDataSetTableAdapters._7TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:AuthGuard.clevelDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(AuthGuard.clevelDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:AuthGuard.clevelDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(AuthGuard.clevelDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:AuthGuard.clevelDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(AuthGuard.clevelDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:AuthGuard.clevelDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:AuthGuard.clevelDataSetTableAdapters.TableAdapterManager.UpdateAll(AuthGuard.clevelDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:AuthGuard.clevelDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:AuthGuard.clevelDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:AuthGuard.clevelDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,58 @@
+
+5/15/2014 15:08:59Exam Starts
+(1) Q1 - ChosenOption [], CorrectOption [D]
+5/15/2014 15:09:02Exam Ended
+Score: 0
+Remaining Time: 0 : 1 : 8 Minutes
+5/15/2014 15:44:46 User [13GWT0911] Authenticated
+5/15/2014 15:44:59 User [13GWT0911] Signed In as ODUNGIDE, Mfon
+Examination Center: Gloval Webs Technologies
+Examination Title: Microsoft Office Publisher 2010 [CIT213]
+Time Allowed: 45Minutes
+Number Of Questions: 20 Questions
+5/15/2014 15:45:13Exam Starts
+(1) Q4 - ChosenOption [D], CorrectOption [D]
+(2) Q9 - ChosenOption [B], CorrectOption [B]
+(3) Q4 - ChosenOption [], CorrectOption [D]
+5/15/2014 15:45:57Exam Ended
+Score: 2
+Remaining Time: 0 : 44 : 17 Minutes
+5/15/2014 16:29:01 User [13GWT0911] Authenticated
+5/15/2014 16:29:12 User [13GWT0911] Signed In as ODUNGIDE, Mfon
+Examination Center: Gloval Webs Technologies
+Examination Title: Microsoft Office Publisher 2010 [CIT213]
+Time Allowed: 45Minutes
+Number Of Questions: 20 Questions
+5/15/2014 16:29:34Exam Starts
+(1) Q9 - ChosenOption [B], CorrectOption [B]
+(2) Q4 - ChosenOption [C], CorrectOption [D]
+(3) Q9 - ChosenOption [C], CorrectOption [B]
+(4) Q15 - ChosenOption [B], CorrectOption [B]
+(5) Q9 - ChosenOption [B], CorrectOption [B]
+(6) Q4 - ChosenOption [D], CorrectOption [D]
+(7) Q5 - ChosenOption [], CorrectOption [A]
+(8) Q7 - ChosenOption [A], CorrectOption [A]
+(9) Q9 - ChosenOption [B], CorrectOption [B]
+(10) Q2 - ChosenOption [A], CorrectOption [A]
+(11) Q14 - ChosenOption [D], CorrectOption [D]
+(12) Q11 - ChosenOption [B], CorrectOption [B]
+(13) Q4 - ChosenOption [D], CorrectOption [D]
+(14) Q5 - ChosenOption [A], CorrectOption [A]
+(15) Q8 - ChosenOption [B], CorrectOption [B]
+5/15/2014 16:31:29Exam Ended
+Score: 12
+Remaining Time: 0 : 43 : 6 Minutes
+============
+
+5/15/2014 16:32:25 User [13GWT0911] Authenticated
+5/15/2014 17:04:04 User [13GWT0911] Authenticated
+5/15/2014 17:04:45 User [13GWT0911] Signed In as ODUNGIDE, Mfon
+Examination Center: Gloval Webs Technologies
+Examination Title: Microsoft Office Publisher 2010 [CIT213]
+Time Allowed: 45Minutes
+Number Of Questions: 20 Questions
+(0) QtxtQ - ChosenOption [], CorrectOption [D]
+5/15/2014 17:04:56Exam Ended
+Score: 0
+Remaining Time: 45:00 Minutes
+============

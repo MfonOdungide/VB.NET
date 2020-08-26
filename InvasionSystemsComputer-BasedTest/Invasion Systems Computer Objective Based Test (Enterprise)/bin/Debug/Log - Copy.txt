@@ -1,0 +1,7 @@
+
+4/30/2014 14:23:30 User [13GWT0911] Authenticated
+4/30/2014 14:27:48 User [13GWT0911] Authenticated
+4/30/2014 14:30:32 User [13GWT0911] Authenticated
+4/30/2014 14:32:17 User [13GWT0911] Signed In as ODUNGIDE, Mfon
+Examination Center: Gloval Webs Technologies, ] Examination Title: Microsoft Office Publisher 2010 [CIT213]
+Time Allowed: 45MinutesMinutes,  Number Of Questions: 20QuestionsQuestionsQuestionsQuestions Questions

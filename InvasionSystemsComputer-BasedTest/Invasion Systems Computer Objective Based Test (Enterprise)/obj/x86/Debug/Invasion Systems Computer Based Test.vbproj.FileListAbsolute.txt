@@ -1,0 +1,18 @@
+C:\Users\ODUNGIDE\Documents\Visual Studio 2010\Projects\Invasion Systems Computer Based Test\Invasion Systems Computer Based Test\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ODUNGIDE\Documents\Visual Studio 2010\Projects\Invasion Systems Computer Based Test\Invasion Systems Computer Based Test\obj\x86\Debug\Invasion_Systems_Computer_Based_Objective_Test.frmConfirmation.resources
+C:\Users\ODUNGIDE\Documents\Visual Studio 2010\Projects\Invasion Systems Computer Based Test\Invasion Systems Computer Based Test\obj\x86\Debug\Invasion_Systems_Computer_Based_Objective_Test.Form1.resources
+C:\Users\ODUNGIDE\Documents\Visual Studio 2010\Projects\Invasion Systems Computer Based Test\Invasion Systems Computer Based Test\obj\x86\Debug\Invasion_Systems_Computer_Based_Objective_Test.frmLog.resources
+C:\Users\ODUNGIDE\Documents\Visual Studio 2010\Projects\Invasion Systems Computer Based Test\Invasion Systems Computer Based Test\obj\x86\Debug\Invasion_Systems_Computer_Based_Objective_Test.frmLogin.resources
+C:\Users\ODUNGIDE\Documents\Visual Studio 2010\Projects\Invasion Systems Computer Based Test\Invasion Systems Computer Based Test\obj\x86\Debug\Invasion_Systems_Computer_Based_Objective_Test.Resources.resources
+C:\Users\ODUNGIDE\Documents\Visual Studio 2010\Projects\Invasion Systems Computer Based Test\Invasion Systems Computer Based Test\obj\x86\Debug\Invasion_Systems_Computer_Based_Objective_Test.frmPrint.resources
+C:\Users\ODUNGIDE\Documents\Visual Studio 2010\Projects\Invasion Systems Computer Based Test\Invasion Systems Computer Based Test\obj\x86\Debug\Invasion_Systems_Computer_Based_Objective_Test.frmResult.resources
+C:\Users\ODUNGIDE\Documents\Visual Studio 2010\Projects\Invasion Systems Computer Based Test\Invasion Systems Computer Based Test\obj\x86\Debug\Invasion_Systems_Computer_Based_Objective_Test.frmTest.resources
+C:\Users\ODUNGIDE\Documents\Visual Studio 2010\Projects\Invasion Systems Computer Based Test\Invasion Systems Computer Based Test\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ODUNGIDE\Documents\Visual Studio 2010\Projects\Invasion Systems Computer Based Test\Invasion Systems Computer Based Test\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ODUNGIDE\Documents\Visual Studio 2010\Projects\Invasion Systems Computer Based Test\Invasion Systems Computer Based Test\bin\Debug\Invasion Systems Computer Based Test.exe.config
+C:\Users\ODUNGIDE\Documents\Visual Studio 2010\Projects\Invasion Systems Computer Based Test\Invasion Systems Computer Based Test\bin\Debug\Invasion Systems Computer Based Test.exe
+C:\Users\ODUNGIDE\Documents\Visual Studio 2010\Projects\Invasion Systems Computer Based Test\Invasion Systems Computer Based Test\bin\Debug\Invasion Systems Computer Based Test.pdb
+C:\Users\ODUNGIDE\Documents\Visual Studio 2010\Projects\Invasion Systems Computer Based Test\Invasion Systems Computer Based Test\bin\Debug\Invasion Systems Computer Based Test.xml
+C:\Users\ODUNGIDE\Documents\Visual Studio 2010\Projects\Invasion Systems Computer Based Test\Invasion Systems Computer Based Test\obj\x86\Debug\Invasion Systems Computer Based Test.exe
+C:\Users\ODUNGIDE\Documents\Visual Studio 2010\Projects\Invasion Systems Computer Based Test\Invasion Systems Computer Based Test\obj\x86\Debug\Invasion Systems Computer Based Test.xml
+C:\Users\ODUNGIDE\Documents\Visual Studio 2010\Projects\Invasion Systems Computer Based Test\Invasion Systems Computer Based Test\obj\x86\Debug\Invasion Systems Computer Based Test.pdb
